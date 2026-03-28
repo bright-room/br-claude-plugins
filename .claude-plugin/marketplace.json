@@ -9,6 +9,7 @@
       "description": "Shared development workflow skills for plan, implement, review, and triage — reusable across repositories with project-specific context.",
       "source": "./",
       "version": "1.0.1",
+      "strict": false,
       "skills": [
         "./skills/plan",
         "./skills/implement",
